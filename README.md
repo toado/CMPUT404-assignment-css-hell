@@ -21,4 +21,17 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Changes To HTML 
+=================
 
+Modified the source of images to reference from my directories, as well as the CSS to reference my single css file
+
+
+Sources/References
+=================
+
+https://lakeshoreinnandmarina.com/wp-content/uploads/2015/12/plain-brown.jpg
+* For vintage paper background
+
+https://www.w3schools.com/cssref/css3_pr_background-size.asp
+* For background size information (CSS)
