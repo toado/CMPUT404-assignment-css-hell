@@ -1,0 +1,59 @@
+body {
+    background: url("./images/face.jpg");
+    background-size: 1%;
+}
+
+img {
+    border: 1em double violet;
+    width: 20%;
+    height: 10%;
+    transform: rotate(294deg) skewY(55deg);
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.grid-container {
+    float: right;
+    font-style: italic;
+    font-size: 1.45em;
+    font-weight: bolder;
+}
+
+h1 {
+    color: rgb(255, 70, 70);
+}
+
+p, li {
+    color: rgb(75, 250, 113);
+    font-weight: bold;
+}
+
+h3 {
+    color: rgb(255, 147, 23);
+}
+
+h5 {
+    color: rgb(0, 255, 255);
+}
+
+.info-section-template > p {
+    transform: rotate(0deg);
+    color: rgb(253, 255, 138);
+}
+
+.info-section-template:nth-child(3) {
+    margin-top: 4em;
+    float: right;
+    margin-top: 18em;
+    transform: translate(-80%) rotate(83deg);
+}
+
+.header > h1, p {
+    transform: rotate(-34deg);
+    color: rgb(255, 151, 224);
+}
+
+header {
+    transform: rotate(220deg);
+}

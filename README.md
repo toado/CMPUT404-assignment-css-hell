@@ -19,7 +19,7 @@ Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
 repository and (C) 2013 Abram Hindle visibile in the text.
 
-Code is licensed under the Apache 2.0 license.
+Code is licensed under the Apache 2.0 license. Copyright 2021 Justin Tan
 
 Changes To HTML 
 =================
@@ -38,3 +38,13 @@ https://www.w3schools.com/cssref/css3_pr_background-size.asp
 
 https://fonts.google.com/specimen/EB+Garamond?preview.text_type=custom
 * For font use
+
+https://www.w3schools.com/css/css_grid_container.asp &&
+https://css-tricks.com/snippets/css/complete-guide-grid/
+* For understanding grid layout
+
+http://www.gutenberg.org/browse/scores/top
+* For choosing the 3 Gutenberg stories (Dracula, Treasure Island, and The Secret Garden)
+
+https://www.w3schools.com/cssref/css3_pr_transform.asp
+* For transforming elements

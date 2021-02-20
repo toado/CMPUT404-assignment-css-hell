@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #ffffff;
+    background-image: url("https://www.transparenttextures.com/patterns/crossword.png");
+    margin: 0;
+}
+
+.header {
+    grid-area: header;
+    display: inline-block;
+    text-align: center;
+    background-color: #2b2b2b;
+    color: #ffffff;
+    padding-top: 2em;
+}
+
+h1.name {
+    margin-bottom: 0;
+}
+
+.tiny-bio {
+    font-size: 0.9em;
+    margin-bottom: 2.5em;
+}
+
+.info-section-template {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 3%;
+}
+
+.info-section-template > h1 {
+    text-decoration: underline;
+    margin-bottom: 0;
+}
+
+.item-title {
+    padding-top: 0.5em;
+    margin: 0;
+}
+
+.location {
+    margin: .5em 0;
+}
+
+ul {
+    margin-top: 0.6em;
+}
+
+li {
+    margin: 0.3em 0;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;     /* 3 columns, one 3x as wide as the other two */
+    grid-template-rows: auto;
+    grid-template-areas: 
+      "header header header"
+}
+
+img.profile-picture {
+    width: 256px;
+    border-radius: 50%;
+    border: 0.1em solid rgb(255, 255, 255)
+}
