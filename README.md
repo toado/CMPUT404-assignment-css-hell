@@ -24,7 +24,7 @@ Code is licensed under the Apache 2.0 license.
 Changes To HTML 
 =================
 
-Modified the source of images to reference from my directories, as well as the CSS to reference my single css file
+Modified the source of images to reference from my directories, as well as the CSS to reference my single css file. Also included reference to a Google fonts in each html file.
 
 
 Sources/References
@@ -35,3 +35,6 @@ https://lakeshoreinnandmarina.com/wp-content/uploads/2015/12/plain-brown.jpg
 
 https://www.w3schools.com/cssref/css3_pr_background-size.asp
 * For background size information (CSS)
+
+https://fonts.google.com/specimen/EB+Garamond?preview.text_type=custom
+* For font use
